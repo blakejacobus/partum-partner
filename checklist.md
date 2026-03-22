@@ -99,7 +99,3 @@
 - [ ] Snack
 - [ ] Put on pajamas
 - [ ] Floss and brush teeth
-
-### Feeding & Diapers
-> Feeding every 2-3 hours
-> Wet and dirty diapers correspond to 
