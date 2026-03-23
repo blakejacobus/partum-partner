@@ -5,6 +5,7 @@ permalink: /birth/
 ---
 
 # Birth
+
 - [ ] BABY checkout by medical staff
 - [ ] MAMA checkout by medical staff
 - [ ] Strip bedding (top sheets and waterproof layer; leave bottom sheets)
@@ -15,4 +16,5 @@ permalink: /birth/
 - [ ] Serve food and drinks or MOM
 - [ ] Gather remaining birth supplies in plastic tub
 - [ ] Drain and deflate birth tub
+
 See [Postpartum](./postpartum.md) for next steps.

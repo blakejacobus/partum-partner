@@ -5,7 +5,9 @@ permalink: /labor/
 ---
 
 # Labor
+
 ## Early
+
 - [ ] Notify Midwifery
 - [ ] Notify Doula
 - [ ] Remove rugs or cover flooring around birth pool and bed
@@ -23,8 +25,11 @@ permalink: /labor/
 - [ ] Thaw casserole and sourdough
 - [ ] Make [laboraide](TODO) or other electrolyte drink
 - [ ] Offer for MOM to use tub (can use Epsom salt)
+
 ## Active
+
 - [ ] Call Midwifery
 - [ ] Call Doula
 - [ ] Fill tub (99-101F)
+
 See [Birth](./birth.md) for next steps.

@@ -5,7 +5,9 @@ permalink: /diapers/
 ---
 
 # Diapers
+
 Diaper output fo breastfed babies:
+
 | Time | Wet | Dirty |
 | - | - | - |
 | Day 1 <br> _0-24h_ | - [ ] 1 | - [ ] 2 |
