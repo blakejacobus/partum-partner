@@ -6,9 +6,9 @@ permalink: /postpartum/
 
 # Postpartum
 
-> Anticipate needs; support MOM to support BABY. <br>
-> BABY duties are opportunities to create a bond with BABY. <br>
-> Create calm amidst the chaos to help MOM and BABY rest, recover, and grow.
+- Anticipate needs; support MOM to support BABY. <br>
+- BABY duties are opportunities to create a bond with BABY. <br>
+- Create calm amidst the chaos to help MOM and BABY rest, recover, and grow.
 
 ## Goals
 
